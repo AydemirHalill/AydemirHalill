@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/10725897/pexels-photo-10725897.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![MasterHead](https://images.pexels.com/photos/10725897/pexels-photo-10725897.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 
 <h1 align="center">Hi 👋, I'm Halil Aydemir</h1>
